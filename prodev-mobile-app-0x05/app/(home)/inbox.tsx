@@ -1,11 +1,11 @@
 import { View, Text } from "react-native";
 
-const Saved = () => {
+const Inbox = () => {
   return (
       <View>
-        <Text>Saved Screen</Text>
+        <Text>Inbox Screen</Text>
       </View>
   )
 }
 
-export default Saved;
+export default Inbox;
